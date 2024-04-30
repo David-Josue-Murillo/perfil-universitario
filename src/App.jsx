@@ -1,10 +1,13 @@
+import Header from "./components/Header"
+import Main from "./components/Main"
 
 function App() {
 
     return (
-        <>
-            <h1 className="text-4xl text-red-600 font-bold">Texto de prueba</h1>
-        </>
+        <div className="w-screen h-screen bg-black">
+            <Header />
+            <Main />
+        </div>
     )
 }
 
