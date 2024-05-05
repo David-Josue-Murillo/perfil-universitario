@@ -13,7 +13,7 @@ export default function Main() {
                     </div>
 
                     <div>
-                        <p className='text-sm text-white'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt metus eu sollicitudin viverra. Ut sollicitudin felis ut turpis maximus mattis. Cras ac dolor sed purus dapibus hendrerit. Sed scelerisque, libero id pulvinar lacinia, mauris tellus venenatis tortor, in finibus urna libero eu nulla.</p>
+                        <p className='text-sm text-white'>Soy estudiante de la Universidad de Panamá y estudio una liceniatura en informática para la gestión educativa y empresarial, tengo 20 años y me apasiona mucho la tecnología, especialmente el desarrollo web. Mi objetivo es mejorar mis habilidades y conocimientos en este campo. Disfruto de desafíos técnicos que me permiten poner en práctica lo aprendido en mis estudios universitarios. Además, busco nuevas oportunidades para aplicar mis habilidades en proyectos interesantes y creativos. Mi pasión por la tecnología me impulsa a seguir explorando diferentes lenguajes de programación y técnicas de diseño web para seguir creciendo profesionalmente.</p>
                     </div>
                 </section>
 
