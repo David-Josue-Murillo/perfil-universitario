@@ -4,7 +4,7 @@ import img from '../img/img.jpg'
 export default function Main() {
   return (
     <>
-        <main className='bg-black'>
+        <main>
             <div className='container flex justify-center items-center mx-auto py-10    '>
                 <section className='flex flex-col w-2/6 mr-4'>
                     <div className='mb-3'>

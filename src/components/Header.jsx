@@ -4,7 +4,7 @@ import img from '../img/fiec.png'
 export default function Header() {
   return (
     <>
-        <div className="bg-black flex py-2 px-20 justify-between items-center">
+        <div className="flex py-2 px-20 justify-between items-center">
             <div className=''>
                 <p className='bg-clip-text bg-gradient-to-t from-green-700 via-green-500 to-green-300 text-transparent font-bold text-xl'>LIGEE</p>
             </div>

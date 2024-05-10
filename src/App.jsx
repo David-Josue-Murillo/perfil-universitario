@@ -4,7 +4,7 @@ import Main from "./components/Main"
 function App() {
 
     return (
-        <div className="w-screen h-screen">
+        <div className="bg-black w-screen h-screen">
             <Header />
             <Main />
         </div>
