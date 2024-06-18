@@ -16,16 +16,16 @@ export default function Header() {
                         <a className='text-sky-100 font-bold hover:text-green-400' href="#">Practicas</a>
                         <ul>
                             <li className='hover:border-b-2 hover:border-b-lime-700'>
-                                <a className='text-sky-100 font-bold hover:text-green-400' href="./public/Tarea-4/index.html">Tarea 4</a>
+                                <a className='text-sky-100 font-bold hover:text-green-400' href="./public/Tasks/Tarea-4/index.html">Tarea 4</a>
                             </li>
                             <li className='hover:border-b-2 hover:border-b-lime-700'>
-                                <a className='text-sky-100 font-bold hover:text-green-400' href="./public/Tarea-5/index.html">Tarea 5</a>
+                                <a className='text-sky-100 font-bold hover:text-green-400' href="./public/Tasks/Tarea-5/index.html">Tarea 5</a>
                             </li>
                             <li className='hover:border-b-2 hover:border-b-lime-700'>
-                                <a className='text-sky-100 font-bold hover:text-green-400' href="./public/Tarea-6/index.html">Tarea 6</a>
+                                <a className='text-sky-100 font-bold hover:text-green-400' href="./public/Tasks/Tarea-6/index.html">Tarea 6</a>
                             </li>
                             <li className='hover:border-b-2 hover:border-b-lime-700'>
-                                <a className='text-sky-100 font-bold hover:text-green-400' href="./public/Tarea-7/index.php">Tarea 7</a>
+                                <a className='text-sky-100 font-bold hover:text-green-400' href="./public/Tasks/Tarea-7/index.php">Tarea 7</a>
                             </li>
                         </ul>
                     </li>
