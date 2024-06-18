@@ -1,5 +1,6 @@
 import React from 'react'
 import img from '../img/fiec.png'
+import { Tareas } from './Tareas'
 
 export default function Header() {
   return (
@@ -10,16 +11,16 @@ export default function Header() {
             </div>
             <nav className='flex justify-center'>
                 <ul className='flex flex-row gap-10'>
-                    <li>
-                        <a className='text-sky-100 font-bold hover:text-green-400' href="#">Practicas</a>
+                    <li className='hover:border-b-2 hover:border-b-lime-700'>
+                        <a className='text-sky-100 font-bold hover:text-green-400' href="#">Tareas</a>
                     </li>
-                    <li>
-                        <a className='text-sky-100 font-bold hover:text-green-400' href="#">Ejercicios</a>
+                    <li className='hover:border-b-2 hover:border-b-lime-700'>
+                        <a className='text-sky-100 font-bold hover:text-green-400' href="#">Parciales</a>
                     </li>
-                    <li>
+                    <li className='hover:border-b-2 hover:border-b-lime-700'>
                         <a className='text-sky-100 font-bold hover:text-green-400' href="#">Laboratorios</a>
                     </li>
-                    <li>
+                    <li className='hover:border-b-2 hover:border-b-lime-700'>
                         <a className='text-sky-100 font-bold hover:text-green-400' href="#">Proyectos</a>
                     </li>
                 </ul>
