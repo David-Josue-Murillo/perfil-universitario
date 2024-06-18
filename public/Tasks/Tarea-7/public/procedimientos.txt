@@ -1,4 +1,0 @@
-Generar un archivo PDF desde PHP.
-El archivo PDF debe de tener un logo, encabezado y pie de página
-El contenido sera el usado de la tarea 6 (usar una base de datos)
-
