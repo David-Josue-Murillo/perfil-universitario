@@ -13,26 +13,26 @@ export default function Header() {
                 <nav className='flex relative mx-auto nav_menu'>
                     <ul className='flex flex-row gap-10'>
                         <li className='hover:border-b-2 hover:border-b-lime-700 relative hover:flex'>
-                            <a className='text-sky-100 font-bold hover:text-green-400' href="#">Practicas</a>
+                            <a className='text-sky-100 font-bold hover:text-green-400' href="#">Tareas</a>
                             <ul>
                                 <li className='hover:border-b-2 hover:border-b-lime-700'>
-                                    <a className='text-sky-100 font-bold hover:text-green-400' >Tarea 1</a>
+                                    <a href='http://tecnologia-web.free.nf/tareas/tarea_1/' className='text-sky-100 font-bold hover:text-green-400' >Tarea 1</a>
                                 </li><li className='hover:border-b-2 hover:border-b-lime-700'>
-                                    <a className='text-sky-100 font-bold hover:text-green-400' >Tarea 2</a>
+                                    <a href='http://tecnologia-web.free.nf/tareas/tarea_2/' className='text-sky-100 font-bold hover:text-green-400' >Tarea 2</a>
                                 </li><li className='hover:border-b-2 hover:border-b-lime-700'>
-                                    <a className='text-sky-100 font-bold hover:text-green-400' >Tarea 3</a>
+                                    <a href='http://tecnologia-web.free.nf/tareas/tarea_3/' className='text-sky-100 font-bold hover:text-green-400' >Tarea 3</a>
                                 </li>
                                 <li className='hover:border-b-2 hover:border-b-lime-700'>
-                                    <a className='text-sky-100 font-bold hover:text-green-400' >Tarea 4</a>
+                                    <a href='http://tecnologia-web.free.nf/tareas/tarea_4/' className='text-sky-100 font-bold hover:text-green-400' >Tarea 4</a>
                                 </li>
                                 <li className='hover:border-b-2 hover:border-b-lime-700'>
-                                    <a className='text-sky-100 font-bold hover:text-green-400'>Tarea 5</a>
+                                    <a href='http://tecnologia-web.free.nf/tareas/tarea_5/' className='text-sky-100 font-bold hover:text-green-400'>Tarea 5</a>
                                 </li>
                                 <li className='hover:border-b-2 hover:border-b-lime-700'>
-                                    <a className='text-sky-100 font-bold hover:text-green-400'>Tarea 6</a>
+                                    <a href='http://tecnologia-web.free.nf/tareas/tarea_6/' className='text-sky-100 font-bold hover:text-green-400'>Tarea 6</a>
                                 </li>
                                 <li className='hover:border-b-2 hover:border-b-lime-700'>
-                                    <a className='text-sky-100 font-bold hover:text-green-400'>Tarea 7</a>
+                                    <a href='http://tecnologia-web.free.nf/tareas/tarea_7/' className='text-sky-100 font-bold hover:text-green-400'>Tarea 7</a>
                                 </li>
                             </ul>
                         </li>
